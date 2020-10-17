@@ -1,10 +1,10 @@
-# PyBer_Analysis
+# PyBer Analysis
 
 ## Project Overview
 The purpose of this analysis was to create an analysis of ride sharing by city type using python, pandas, and matplotlib. We cut the data from January to April and segmented by week. Then we were able to show total weekly fares by each city type, graph the results, analyze trends week over week and provide recommendations. 
 ## Results
 
-![](analysis/PyBer_fare_summmary.png)
+![](analysis/Dataframe.PNG)
 
 **Total Rides**
 * Urban rides had the most rides out of all city groups with over 68% of all rides. Suburban had the second highest of total rides with 26% percent. Rural had the fewest total rides with only 5% of all rides.
@@ -24,8 +24,8 @@ Lowest average fare per driver is urban with $16.57.  In an urban setting, drive
 **Total Fare by City Type**
 The total fares overall were $63,537 from January to April. Urban held the largest share of this with over 62% of total fare share. Suburban was next with 30% of total fare percentage. Lastly, urban held 6% of total fare share. Majority of business comes from the suburban and urban rides. 
 
+![](analysis/PyBer_fare_summmary.png)
 
-![](analysis/Dataframe.PNG)
 
 ## Summary
 A few business recommendations I would make regarding the results above:
