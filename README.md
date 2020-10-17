@@ -19,7 +19,7 @@ The purpose of this analysis was to create an analysis of ride sharing by city t
 * Lowest average fare per ride is urban with 24.53. This is most likely due to shorter rides, being it in a more of a city type setting. Suburban was next with an average fare per ride $30.97. Lastly, rural had the highest average fare per ride of $34.62 due to longer ride lengths.
 
 **Average fare per driver**
-* Lowest average fare per driver is urban with $16.57.  In an urban setting, drivers are doing shorter but more frequent drives. Next Suburban average fare per driver was $39.50. Lastly, the highest average fare per driver in rural was $55.49. Most likely rural had teh highest fare per driver due to less drivers in rural areas and longer rides. 
+* Lowest average fare per driver is urban with $16.57.  In an urban setting, drivers are doing shorter but more frequent drives. Next suburban average fare per driver was $39.50. Lastly, the highest average fare per driver in rural was $55.49. Most likely rural had teh highest fare per driver due to less drivers in rural areas and longer rides. 
 
 **Total Fare by City Type**
 * The total fares overall were $63,537 from January to April. Urban held the largest share of this with over 62% of total fare share. Suburban was next with 30% of total fare percentage. Lastly, urban held 6% of total fare share. Majority of business comes from the suburban and urban rides. 
@@ -28,8 +28,8 @@ The purpose of this analysis was to create an analysis of ride sharing by city t
 
 
 ## Summary
-A few business recommendations I would make regarding the results above:
-* Adjusting prices in suburban and rural areas so the average fire per rider isn't less than the average fare per driver. This tells me that Pyber is losing money on Suburban and Urban rides or does not have enough drivers for suburban or urban rides. 
+A few business recommendations I would make to Pyber regarding the results above:
+* Adjusting prices in suburban and rural areas so the average fare per rider isn't less than the average fare per driver. This tells me that Pyber is losing money on Suburban and Urban rides or does not have enough drivers for suburban or urban rides. 
 * Increase drivers in rural and suburban areas as the cost per fare is higher than urban which means margins could be greater. 
-* Look into dips and peaks that occured from Janurary through April. The last weekend in February showed an increase in all 3 city types. 
-* Even out the distribution of rural/suburban/urban making each profitable to help balance city types and not put all eggs in one balance. Urban also seems to fluctuate the most on total fares each week. With Urban being the top contributer on total fare amounts but also the most volatile, I'd want to make suburban and rural have more of a share of the profit. 
+* Deep dive into dips and peaks that occured from Janurary through April to look at trends, for example the last weekend in February showed an increase in all 3 city types. 
+* Even out the distribution of rural/suburban/urban making each city type profitable to help balance profit. Urban also seems to fluctuate the most on total fares each week. With Urban being the top contributer on total fare amounts but also the most volatile, I'd want suburban and rural to have more of a share of the profit. 
