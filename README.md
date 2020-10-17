@@ -29,7 +29,7 @@ The purpose of this analysis was to create an analysis of ride sharing by city t
 
 ## Summary
 A few business recommendations I would make to Pyber regarding the results above:
-* Adjusting prices in suburban and rural areas so the average fare per rider isn't less than the average fare per driver. This tells me that Pyber is losing money on Suburban and Urban rides or does not have enough drivers for suburban or urban rides. 
-* Increase drivers in rural and suburban areas as the cost per fare is higher than urban which means margins could be greater. 
-* Deep dive into dips and peaks that occured from Janurary through April to look at trends, for example the last weekend in February showed an increase in all 3 city types. 
-* Even out the distribution of rural/suburban/urban making each city type profitable to help balance profit. Urban also seems to fluctuate the most on total fares each week. With Urban being the top contributer on total fare amounts but also the most volatile, I'd want suburban and rural to have more of a share of the profit. 
+* Adjusting prices in suburban and rural areas so the average fare per rider isn't less than the average fare per driver. This tells me that Pyber is losing money on suburban and urban rides or does not have enough drivers for suburban or urban rides. 
+* Increase drivers in rural and suburban areas as the cost per fare is higher than urban, which means margins could be greater on longer rides. 
+* Deep dive into dips and peaks that occured from Janurary through April to look at trends. For example the last weekend in February showed an increase in all 3 city types. 
+* Even out the distribution of rural/suburban/urban making each city type profitable to help balance profit. Urban also seems to fluctuate the most on total fares each week. With urban being the top contributer on total fare amounts but also the most volatile, I'd want suburban and rural to bigger share on profit. 
