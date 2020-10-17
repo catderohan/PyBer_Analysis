@@ -16,13 +16,13 @@ The purpose of this analysis was to create an analysis of ride sharing by city t
 * Like total rides and total fares, urban held the majority of total fares amount with 62% amount of all total fares. Suburban was next with 30% of total fares. Lastly rural was last with 6% of total fares. 
 
 **Average Fare per Ride**
-Lowest average fare per ride is urban with 24.53. This is most likely due to shorter rides, being it in a more of a city type setting. Suburban was next with an average fare per ride $30.97. Lastly, rural had the highest average fare per ride of $34.62 due to longer ride lengths.
+* Lowest average fare per ride is urban with 24.53. This is most likely due to shorter rides, being it in a more of a city type setting. Suburban was next with an average fare per ride $30.97. Lastly, rural had the highest average fare per ride of $34.62 due to longer ride lengths.
 
 **Average fare per driver**
-Lowest average fare per driver is urban with $16.57.  In an urban setting, drivers are doing shorter but more frequent drives. Next Suburban average fare per driver was $39.50. Lastly, the highest average fare per driver in rural was $55.49. Most likely rural had teh highest fare per driver due to less drivers in rural areas and longer rides. 
+* Lowest average fare per driver is urban with $16.57.  In an urban setting, drivers are doing shorter but more frequent drives. Next Suburban average fare per driver was $39.50. Lastly, the highest average fare per driver in rural was $55.49. Most likely rural had teh highest fare per driver due to less drivers in rural areas and longer rides. 
 
 **Total Fare by City Type**
-The total fares overall were $63,537 from January to April. Urban held the largest share of this with over 62% of total fare share. Suburban was next with 30% of total fare percentage. Lastly, urban held 6% of total fare share. Majority of business comes from the suburban and urban rides. 
+* The total fares overall were $63,537 from January to April. Urban held the largest share of this with over 62% of total fare share. Suburban was next with 30% of total fare percentage. Lastly, urban held 6% of total fare share. Majority of business comes from the suburban and urban rides. 
 
 ![](analysis/PyBer_fare_summmary.png)
 
