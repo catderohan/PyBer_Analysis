@@ -4,7 +4,7 @@
 The purpose of this analysis was to create an analysis of ride sharing by city type using python, pandas, and matplotlib. We cut the data from January to April and segmented by week. Then we were able to show total weekly fares by each city type, graph the results, analyze trends week over week and provide recommendations. 
 ## Results
 
-![](analysis/PyBer_fare_summary.png)
+![](analysis/PyBerSummary.png)
 
 **Total Rides**
 * Urban rides had the most rides out of all city groups with over 68% of all rides. Suburban had the second highest of total rides with 26% percent. Rural had the fewest total rides with only 5% of all rides.
